@@ -198,6 +198,7 @@
                                 android:maxLines="1"
                                 android:textColor="#000000"
                                 android:textSize="15sp"
+                                android:hint="Your password"
                                 app:layout_constraintLeft_toLeftOf="parent"
                                 app:layout_constraintTop_toBottomOf ="@id/password_text_view"
                                 tools:layout_editor_absoluteX="19dp"
